@@ -1,4 +1,3 @@
 ## Husband & Father of 👧👦
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kotakanazawa&layout=compact)](https://github.com/kotakanazawa/github-readme-stats)
-
+大阪在住の道産子です。夫、父、ソフトウェアエンジニア。ブラジリアン柔術やってます。
